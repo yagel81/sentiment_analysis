@@ -2,12 +2,12 @@ import subprocess
 
 # List of script files in the order you want to run them
 script_files = [
-    "1_api_saved_locally.py",
-    "2_transfer_api_output_to_hdfs.py",
-    "3_extract_top_1_word_for_day.py",
-    "4_filter_articles_by_top_word_and_sentiment.py",
-    "5_trasfer_acticles_to_elstic.py",
-    "6_monitoring.py",
+    "api_saved_locally.py",
+    "transfer_api_output_to_hdfs.py",
+    "extract_top_1_word_for_day.py",
+    "filter_articles_by_top_word_and_sentiment.py",
+    "trasfer_acticles_to_elstic.py",
+    "monitoring.py",
     "elasticsearch_client.py",
     "exc_elastic.py",
     "kafka_to_elasticsearch.py",
