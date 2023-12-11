@@ -49,7 +49,7 @@ Of course, it is important to note that operating in an open-source world requir
 * Another emphasis that is important for us to note is the focus on developed, stable and mature technologies that have provided years in the field and have a strong and supportive aura that can serve as a help for us if needed.
 
 # Pipe-line
-![alt text](https://github.com/yagel81/sentiment_analysis/blob/main/data%20pipeline%20project.jpg?raw=true)
+![alt text](https://github.com/yagel81/sentiment_analysis/blob/main/other/data%20pipeline%20project.jpg?raw=true)
 
 # Comparisons between different systems
 # Storage 
